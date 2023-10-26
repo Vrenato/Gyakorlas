@@ -3,4 +3,4 @@
 # bongeszo commit change
 # visual studios
 # visual a studio helyi
-# konfliktus bongeszo
+
